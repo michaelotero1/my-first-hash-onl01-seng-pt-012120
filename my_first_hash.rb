@@ -10,11 +10,9 @@ end
 
 def shipping_manifest
 
-the_manifest = {"whale bone corsets" => 5, "oil paintings" => 2, "porcelain vases" => 3}
+  the_manifest = {"whale bone corsets" => 5, "oil paintings" => 2, "porcelain vases" => 3}
 
- 
-
-end
+ end
 
  
 
